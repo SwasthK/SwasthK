@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Swasthik K</h1>
+<h1 align="center">Hey 👋, I'm Swasthik K</h1>
 <h3 align="center">Aspiring web developer in training, building my skills and seeking collaboration. Open to feedback and excited to learn!👨‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swasthk&label=Profile%20views&color=0e75b6&style=flat" alt="swasthk" /> </p>
