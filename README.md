@@ -5,7 +5,7 @@ I craft full-stack applications and turn ideas into robust, scalable code.
 
 ---
 
-<img style="width:100vw" src="./readme.gif.gif" alt="Gif/SwasthK">
+<img style="width:100vw" src="./readme.gif" alt="Gif/SwasthK">
 
 ### 🚀 I Build With
 
