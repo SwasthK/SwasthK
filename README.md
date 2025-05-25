@@ -3,8 +3,6 @@
 Full-stack Developer · Optimist · Community Builder  
 I craft full-stack applications and turn ideas into robust, scalable code.
 
----
-
 <img style="width:100vw" src="./readme.gif" alt="Gif/SwasthK">
 
 ### 🚀 I Build With
