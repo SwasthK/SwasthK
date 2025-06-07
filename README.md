@@ -7,7 +7,7 @@ I craft full-stack applications and turn ideas into robust, scalable code.
 
 ### 🚀 I Build With
 
-Tools and frameworks across the modern web — frontend, backend, databases, and everything in between. I enjoy exploring new tech and shipping polished products.
+Tools and frameworks across the modern web — frontend, backend, databases, and everything in between. I love exploring new tech and shipping polished products.
 
 ---
 
