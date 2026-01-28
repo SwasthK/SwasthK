@@ -1,17 +1,17 @@
-# Hi, I'm Swasthik 👋
+# Hi, I'm Swasthik
 
 Full-stack Developer · Optimist · Community Builder  
 I craft full-stack applications and turn ideas into robust, scalable code.
 
 <img style="width:100vw" src="./readme.gif" alt="Gif/SwasthK">
 
-### 🚀 I Build With
+### I Build With
 
 Tools and frameworks across the modern web — frontend, backend, databases, and everything in between. I love exploring new tech and shipping polished products.
 
 ---
 
-### ✨ I Enjoy
+### I Enjoy
 
 - Building full-stack web apps  
 - Exploring modern frameworks  
@@ -19,6 +19,6 @@ Tools and frameworks across the modern web — frontend, backend, databases, and
 
 ---
 
-### 📫 Connect
+### Connect
 
 [X](https://x.com/swasthik319) • [Portfolio](https://swasthk.vercel.app)
